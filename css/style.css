@@ -1,0 +1,66 @@
+body {
+  font-family: "Bebas Neue", cursive;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #363958;
+  font-family: "Bebas Neue", cursive;
+}
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #363958;
+  font-family: "Bebas Neue", cursive;
+}
+h5 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #363958;
+  font-family: "Bebas Neue", cursive;
+}
+p {
+  font-family: "Roboto", sans-serif;
+}
+.brnd-logo img {
+  width: 250px;
+}
+.nav-menu a {
+  margin-right: 25px;
+}
+.carousel-heading {
+  color: #fabe4c;
+}
+.fashion-card img {
+  height: 350px;
+  padding-bottom: 10px;
+  background-color: rgb(241, 237, 237);
+}
+.fashion-vendor img {
+  width: 70px;
+}
+.btn-custom {
+  background-color: #0dcaf0;
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.btn-custom :hover {
+  color: white;
+}
+.btn-custom i {
+  font-size: 15px;
+  padding-right: 10px;
+}
+.price {
+  font-size: 30px;
+  color: #000000;
+}
+.fashion-card-footer {
+  background-color: white;
+  border: 0;
+}
